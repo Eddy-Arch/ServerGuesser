@@ -5,3 +5,6 @@
 ### to actually guess something. Well, it wouldnt be impossible, just very rare.
 # preview
 ## preview images are available. their names are guesser.png and guesser2.png
+
+# in the future
+###going to add rainbow tables, wordlist support etc
